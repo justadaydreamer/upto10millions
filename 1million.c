@@ -9,6 +9,7 @@ while (x < 10000000) {
     printf("%i\n", x);
         if (x == 10000000) 
         {
+        printf("Up to 10 millions");
         break;
         }
     }
