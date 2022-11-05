@@ -18,3 +18,5 @@ Time to excecute the program :
 Python : 4m19.733s.
 
 C : 0m0.306s.
+  
+  : optimization : 0m0.257s
