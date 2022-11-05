@@ -16,6 +16,6 @@ Pseudocde :
 
 Time to excecute the program :
 
-Python : 90 ± sec.
+Python : 90 ± 1.0 sec.
 
-C : 60 ± sec.
+C : 60 ± 1.0 sec.
