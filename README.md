@@ -20,3 +20,5 @@ Python : 4m19.733s.
 C : 0m0.106s.
   
   : optimization : 0m0.422s
+
+Javascript : 0m0.088s
